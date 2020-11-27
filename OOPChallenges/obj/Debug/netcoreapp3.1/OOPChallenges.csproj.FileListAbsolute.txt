@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\OOPChallenges\OOPChallenges\bin\Debug\netcoreapp3.1\OOPChallenges.exe
+C:\Users\julia.voronetskaja\source\repos\OOPChallenges\OOPChallenges\bin\Debug\netcoreapp3.1\OOPChallenges.deps.json
+C:\Users\julia.voronetskaja\source\repos\OOPChallenges\OOPChallenges\bin\Debug\netcoreapp3.1\OOPChallenges.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\OOPChallenges\OOPChallenges\bin\Debug\netcoreapp3.1\OOPChallenges.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\OOPChallenges\OOPChallenges\bin\Debug\netcoreapp3.1\OOPChallenges.dll
+C:\Users\julia.voronetskaja\source\repos\OOPChallenges\OOPChallenges\bin\Debug\netcoreapp3.1\OOPChallenges.pdb
+C:\Users\julia.voronetskaja\source\repos\OOPChallenges\OOPChallenges\obj\Debug\netcoreapp3.1\OOPChallenges.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\OOPChallenges\OOPChallenges\obj\Debug\netcoreapp3.1\OOPChallenges.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\OOPChallenges\OOPChallenges\obj\Debug\netcoreapp3.1\OOPChallenges.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\OOPChallenges\OOPChallenges\obj\Debug\netcoreapp3.1\OOPChallenges.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\OOPChallenges\OOPChallenges\obj\Debug\netcoreapp3.1\OOPChallenges.dll
+C:\Users\julia.voronetskaja\source\repos\OOPChallenges\OOPChallenges\obj\Debug\netcoreapp3.1\OOPChallenges.pdb
+C:\Users\julia.voronetskaja\source\repos\OOPChallenges\OOPChallenges\obj\Debug\netcoreapp3.1\OOPChallenges.genruntimeconfig.cache
